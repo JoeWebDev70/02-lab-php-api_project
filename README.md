@@ -48,3 +48,7 @@ Production attendue :
 - Search for information on API REST
 - Database diagram
 - Docker container setup and configuration
+
+### Database diagram
+
+<img src="api_db_diagram.jpg" alt="Database diagram">
