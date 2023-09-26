@@ -48,6 +48,11 @@ Production attendue :
 - Search for information on API REST
 - Database diagram
 - Docker container setup and configuration
+- Create a class for connection db
+- Create classes on one table (category) : entity/model, manager, controller with only "get" SQL queries for testing purposes
+- Create router
+- Create the other queries for the first class
+- Create the other classes and relatives queries
 
 ### Database diagram
 
