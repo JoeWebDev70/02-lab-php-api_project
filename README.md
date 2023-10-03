@@ -17,12 +17,12 @@ L’API pourra aussi créer, lister, modifier et ajouter des catégories.
     - Frameworks et bibliothèques, 
     - Base de données, 
     - Développement front end, 
-    - Développement back end , 
+    - Développement back end, 
     - Sécurité web, 
     - Déploiement et gestion de serveurs, 
     - Développement mobile et responsive, 
     - Outils de développement,
-    - Tendances et nouveautés
+    - Tendances et nouveautés,
     - Communauté et ressources d'apprentissage.
 
 Mettre en oeuvre la base de données à partir d’un fichier sql que vous importerez.
